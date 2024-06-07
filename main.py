@@ -11,7 +11,7 @@ import torch.nn as nn
 import torchvision
 from torchvision import transforms
 
-
+# お試し
 def set_seed(seed):
     random.seed(seed)
     np.random.seed(seed)
